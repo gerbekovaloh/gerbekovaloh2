@@ -216,3 +216,24 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# IDE PyCharm
+.idea/
+*.iml
+*.iws
+.idea_modules/
+out/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+
+# Виртуальное окружение
+venv/
+env/
+.venv/
+.env/
+
+# Логи и временные файлы
+*.log
+*.tmp
